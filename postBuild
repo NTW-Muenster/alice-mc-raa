@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "downloading track_information (this may take a while ~600MB!)..."
+wget -q -O track_information.dat "https://uni-muenster.sciebo.de/s/ucYxNwpNpNvs2Jx/download"
+echo "done!"
+
+echo "downloading event_information..."
+wget -q -O event_information.dat "https://uni-muenster.sciebo.de/s/SZ0almtc30jvyd9/download"
+echo "done!"
+
+echo "downloading pp_reference..."
+wget -q -O pp_reference.dat "https://uni-muenster.sciebo.de/s/t9Jay6GrvxQOlLl/download"
+echo "done!"
