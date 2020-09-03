@@ -1,11 +1,14 @@
 #!/bin/bash
 
-echo "downloading track_information (this may take a while ~600MB!)..."
-wget -q -O track_information.dat "https://uni-muenster.sciebo.de/s/ucYxNwpNpNvs2Jx/download"
+jupyter contrib nbextension install --user
+jupyter nbextension enable exercise2/main --sys-prefix
+
+echo "downloading track_information (this may take a while ~144MB!)..."
+wget -q -O track_info.pkl "https://uni-muenster.sciebo.de/s/OAGyZIUJiSUQmJK/download"
 echo "done!"
 
 echo "downloading event_information..."
-wget -q -O event_information.dat "https://uni-muenster.sciebo.de/s/SZ0almtc30jvyd9/download"
+wget -q -O event_information.csv "https://uni-muenster.sciebo.de/s/Hlz7wk47CGpu5US/download"
 echo "done!"
 
 echo "downloading pp_reference..."

@@ -4,7 +4,7 @@ Zunächst folgt eine Einleitung, um die verwendete Programmiersprache __Python__
 
 ## Einleitung in die Masterclass: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
 
-Mit Hilfe der Einleitung kann nun die eigentliche Masterclass bearbeitet werden. Es geht um den nuklearen Modifikationsfaktor R_AA, den wir ermitteln wollen. Die Besprechung und Diskussion der Ergebnisse folgt dann mit den Betreuern.
+Mit Hilfe der Einleitung kann nun die eigentliche Masterclass bearbeitet werden. Es geht um den nuklearen Modifikationsfaktor R_AA, den wir mindestens für die Zentralitätsintervalle 0-5%, 10-20%, 30-40%, 40-50% und 70-80% ermitteln wollen. Die Besprechung und Diskussion der Ergebnisse folgt dann mit den Betreuern.
 
 ## R_AA Masterclass: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
 
@@ -13,9 +13,9 @@ Die benötigten externen Dateien werden durch __binder__ automatisch in das Jupy
 	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA_Einleitung.ipynb
 - __ALICE_RAA__
 	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA.ipynb
-- __track_information.dat__ (~630 MB)
-	- https://uni-muenster.sciebo.de/s/ucYxNwpNpNvs2Jx/download
-- __event_information.dat__ (~  1 MB)
-	- https://uni-muenster.sciebo.de/s/SZ0almtc30jvyd9/download
+- __track_info.pkl__ (~144 MB)
+	- https://uni-muenster.sciebo.de/s/OAGyZIUJiSUQmJK/download
+- __event_information.csv__ (~  1 MB)
+	- https://uni-muenster.sciebo.de/s/Hlz7wk47CGpu5US/download
 - __pp_reference.dat__ (~  1 kB)
 	- https://uni-muenster.sciebo.de/s/t9Jay6GrvxQOlLl/download
