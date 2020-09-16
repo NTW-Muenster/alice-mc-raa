@@ -1,21 +1,58 @@
-# Herzlich willkommen zur ALICE Masterclass über den nuklearen Modifikationsfaktor R_AA!
+# Herzlich willkommen zur ALICE Masterclass über den nuklearen Modifikationsfaktor R<sub>AA</sub>!
 
-Zunächst folgt eine Einleitung, um die verwendete Programmiersprache __Python__ mit Beispielen ein wenig kennen zu lernen. Weiterhin beschäfitgen wir uns mit den Grundlagen, die für die Masterclass später dann benötigt werden.
+Die Masterclass besteht aus drei Teilen:
 
-## Einleitung in die Masterclass: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
+1) Einem Einführungsvortrag mit der Aufgabenstellung und einer Einführung in objektorienterter Programmierung
 
-Mit Hilfe der Einleitung kann nun die eigentliche Masterclass bearbeitet werden. Es geht um den nuklearen Modifikationsfaktor R_AA, den wir mindestens für die Zentralitätsintervalle 0-5%, 10-20%, 30-40%, 40-50% und 70-80% ermitteln wollen. Die Besprechung und Diskussion der Ergebnisse folgt dann mit den Betreuern.
+2) Einem Jupyter-Notebook ([Dokumentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)) mit einer Einleitung, um die verwendete Programmiersprache __Python__ anhand von Beispielen ein wenig kennen zu lernen
 
-## R_AA Masterclass: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
+3) Der eigentlichen Masterclass, in der es um den nuklearen Modifikationsfaktor R<sub>AA</sub> geht
 
-Die benötigten externen Dateien werden durch __binder__ automatisch in das Jupyter-Notebook geladen, hier findet ihr zur späteren Verwendung im Offline-Modus zusätzlich die Direktlinks für alle notwendigen Dateien der gesamten Masterclass:
-- __ALICE_RAA_Einleitung__
+## Einleitung in die Masterclass: 
+
+Die Einleitung soll eine kurze Einführung in die verwendete Programmiersprache __Python__ anhand von Beispielen geben. Mit einem Klick auf den folgenden Button ```launch binder``` kann das Notebook geladen werden
+
+[Hier klicken:](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
+
+ (es dauert einen kleinen Moment, bis die gesamte Umgebung auf __binder__ geladen worden ist - bitte beachte, dass nach 10 Minuten Inaktivität ein Timeout folgt und die Umgebung über den folgenden Link neu gestartet werden muss)
+
+## R_AA Masterclass: 
+
+Nach der Einleitung folgt nun die eigentliche Masterclass. Es geht um den nuklearen Modifikationsfaktor R<sub>AA</sub>, den wir mindestens für die Zentralitätsintervalle:
+
+*  0-5%
+* 10-20%
+* 30-40% 
+* 40-50%
+* 70-80% 
+
+ermitteln wollen. 
+
+[Hier klicken:](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
+
+(Alle benötigten Messdaten werden durch __binder__ automatisch geladen und sind dann im Jupyter-Notebook verfügbar).
+
+Die Besprechung und Diskussion der Ergebnisse folgt dann mit den Betreuern.
+
+## Offline-Verwendung
+
+Zur späteren Verwendung, auch offline, auf einem beliebigen PC (sofern ihr jupyter-notebook auf eurem PC installiert habt: [Installation](https://jupyter.org/install)) findet ihr im Folgenden die Direktlinks für alle notwendigen Dateien für die gesamte Masterclass:
+
+<details>
+ <summary> -- Hier klicken! -- </summary>
+<br>
+
+*  __ALICE_RAA_Einleitung__
 	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA_Einleitung.ipynb
-- __ALICE_RAA__
+*  __ALICE_RAA__
 	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA.ipynb
-- __track_info.pkl__ (~144 MB)
+*  __track_info.pkl__ (~144 MB)
 	- https://uni-muenster.sciebo.de/s/OAGyZIUJiSUQmJK/download
-- __event_information.csv__ (~  1 MB)
+*  __event_information.csv__ (~  1 MB)
 	- https://uni-muenster.sciebo.de/s/Hlz7wk47CGpu5US/download
-- __pp_reference.dat__ (~  1 kB)
+* __pp_reference.dat__ (~  1 kB)
 	- https://uni-muenster.sciebo.de/s/t9Jay6GrvxQOlLl/download
+
+</details>
