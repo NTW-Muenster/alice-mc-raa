@@ -29,7 +29,7 @@ for row in df_events.iterrows():
             if cent in dicEventsCent:
                 dicEventsCent[cent] += 1
             else:
-                dicEventsCent[cent] = 0
+                dicEventsCent[cent] = 1
 
 print(dicEventsCent)
 
