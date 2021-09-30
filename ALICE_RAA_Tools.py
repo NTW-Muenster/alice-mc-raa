@@ -1,4 +1,5 @@
 import numpy as np
+from IPython.display import display, Math
 
 def create_dictionary(li):
     dictionary = {}
@@ -44,6 +45,9 @@ def get_bins():
 
 def fehlerberechnung(h1, h1err, nc1, h2, h2err, nc2):
     return np.sqrt((np.divide(h1err*nc2,h2*nc1))**2 + (np.divide(h1*nc2*h2err,h2*h2*nc1))**2)
+
+def get_value_and_error(raa, raaerr, pt):
+    display(Math(r"R_{{AA}}(p_{{T}}={}~{{\rm GeV}}/c)={:.2f}\pm{:.2f}".format(pt, raa[np.where(np.array(get_bins()[:-1])==pt)[0][0]], raaerr[np.where(np.array(get_bins()[:-1])==pt)[0][0]])))
 
 #def fill_hist(hist, bins, value):
 #    return hist + np.histogram(value, bins)[0]
