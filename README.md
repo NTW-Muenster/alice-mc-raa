@@ -12,8 +12,9 @@ Die Masterclass besteht aus drei Teilen:
 
 Die Einleitung soll eine kurze Einführung in die verwendete Programmiersprache __Python__ anhand von Beispielen geben. Mit einem Klick auf den folgenden Button ```launch binder``` kann das Notebook geladen werden
 
-[Hier klicken:](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA_Einleitung.ipynb)
+[Hier klicken:](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Einleitung.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Einleitung.ipynb)
+
 
  (es dauert einen kleinen Moment, bis die gesamte Umgebung auf __binder__ geladen worden ist - bitte beachte, dass nach 10 Minuten Inaktivität ein Timeout folgt und die Umgebung über den folgenden Link neu gestartet werden muss)
 
@@ -29,8 +30,8 @@ Nach der Einleitung folgt nun die eigentliche Masterclass. Es geht um den nuklea
 
 ermitteln wollen. 
 
-[Hier klicken:](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmuhlhei/ALICE_MC_RAA/master?filepath=ALICE_RAA.ipynb) 
+[Hier klicken:](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA.ipynb)
 
 (Alle benötigten Messdaten werden durch __binder__ automatisch geladen und sind dann im Jupyter-Notebook verfügbar).
 
