@@ -45,9 +45,9 @@ Zur späteren Verwendung, auch offline, auf einem beliebigen PC (sofern ihr jupy
 <br>
 
 *  __ALICE_RAA_Einleitung__
-	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA_Einleitung.ipynb
+	- https://github.com/NTW-Muenster/alice-mc-raa/blob/master/ALICE_RAA_Einleitung.ipynb
 *  __ALICE_RAA__
-	- https://github.com/dmuhlhei/ALICE_MC_RAA/blob/master/ALICE_RAA.ipynb
+	- https://github.com/NTW-Muenster/alice-mc-raa/blob/master/ALICE_RAA.ipynb
 *  __track_info.pkl__ (~144 MB)
 	- https://uni-muenster.sciebo.de/s/OAGyZIUJiSUQmJK/download
 *  __event_information.csv__ (~  1 MB)
@@ -56,3 +56,9 @@ Zur späteren Verwendung, auch offline, auf einem beliebigen PC (sofern ihr jupy
 	- https://uni-muenster.sciebo.de/s/t9Jay6GrvxQOlLl/download
 
 </details>
+
+## Autoren
+
+Diese Masterclass basiert auf der [ALICE R<sub>AA</sub> Masterclass](http://www-alice.gsi.de/masterclass/) von R. Averbeck, F. Bock, B. Doenigus, Y. Foka, P. Luettig, S. Masciocchi, K. Schwarz, R. Simon, J. Thaeder für die ALICE Kollaboration. 
+
+Die hier vorliegende Version ist eine Kopie [des Repositories von dmuhlhei](https://github.com/dmuhlhei/ALICE_MC_RAA) mit kleineren Änderungen.
