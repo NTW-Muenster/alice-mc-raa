@@ -36,6 +36,16 @@ ermitteln wollen.
 (Alle benötigten Messdaten werden durch __binder__ automatisch geladen und sind dann im Jupyter-Notebook verfügbar).
 
 Die Besprechung und Diskussion der Ergebnisse folgt dann mit den Betreuern.
+<details>
+ <summary> -- Moderation für Betreuer -- </summary>
+<br>
+
+Das Zusammenführen der Ergebnisse erfolgt in einem weiteren Notebook, dass von einem Betreuer geöffnet wird.
+
+[Hier klicken:](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Moderation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Moderation.ipynb)
+
+</details>
 
 ## Offline-Verwendung
 
