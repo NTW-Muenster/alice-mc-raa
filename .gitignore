@@ -3,3 +3,4 @@ postBuild_macos
 track_info.pkl
 event_information.csv
 pp_reference.dat
+__pycache__
