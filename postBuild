@@ -4,13 +4,13 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable exercise2/main --sys-prefix
 
 echo "downloading track_information (this may take a while ~144MB!)..."
-wget -O track_info.pkl "https://uni-muenster.sciebo.de/s/YSsrwWmYXh8jJ2p/download"
+wget -O track_info.pkl "https://uni-muenster.sciebo.de/s/rjmGmdv58SB1thv/download"
 echo "done!"
 
 echo "downloading event_information..."
-wget -O event_information.csv "https://uni-muenster.sciebo.de/s/pefLmPc81PW0vuC/download"
+wget -O event_information.csv "https://uni-muenster.sciebo.de/s/8qFIrI4VxkISthH/download"
 echo "done!"
 
 echo "downloading pp_reference..."
-wget -O pp_reference.dat "https://uni-muenster.sciebo.de/s/ljnkoJ7BuIV1FEd/download"
+wget -O pp_reference.dat "https://uni-muenster.sciebo.de/s/m11BefkkkE2AQBJ/download"
 echo "done!"
