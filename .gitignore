@@ -1,4 +1,5 @@
 *.pdf
+*.png
 postBuild_macos
 track_info.pkl
 event_information.csv
